@@ -1,0 +1,23 @@
+{
+  "overview": "A premium personal portfolio for Hembikram Bist — software developer. Features modern animated design with smooth scroll effects, upgraded hero section, project showcases, skills, experience, education, and contact information all presented with a polished, professional look.",
+  "features": [
+    "Modern hero section with animated gradient background and profile photo",
+    "Smooth scroll-triggered animations on all sections",
+    "Interactive project showcase cards with hover effects",
+    "Animated skills badges with staggered load animations",
+    "Timeline-style experience and education layout",
+    "Scroll progress bar and animated navigation",
+    "Fully responsive across mobile, tablet, and desktop",
+    "Downloadable CV (PDF)"
+  ],
+  "category": "portfolio",
+  "tags": [
+    "portfolio",
+    "personal",
+    "developer",
+    "resume",
+    "animated",
+    "modern"
+  ],
+  "last_updated": "2026-04-08T04:48:19.063Z"
+}
